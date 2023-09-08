@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body {
+        background-color: #4682b4;
+    }
+
+    * {
+        cursor: url(アイコンka-soru.png), auto;
+    }
+</style>
+
+<body>
+    <center>
+        <img src="だれか.png" alt="だれかの顔" style="width:400px">
+    </center>
+    <center>
+        <div>
+            <h1>だれかな</h1>
+            <h3>誰？</h3>
+            <p>
+                ささささだれだれだれだれ<br>
+                何故何故何故何故何故何故何故何故何故何故何故何故何故何故<br>
+                よおよおよおよおよよお<br>
+                おまえおまえおめえおめえおまえおまえおまえおまえ<br>
+                メンタルはよわいです
+            </p>
+            <h3>Link</h3>
+            <a href="https://twitter.com/jwteous92"><img src="X.png" alt="X Twitter" title="Twitter"></a>
+            <a href="https://www.openrec.tv/user/Naetam"><img src="opure.png" alt="OPENREC"
+                    title="OPENREC"></a>
+                    <a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/jwteous92?ref_src=twsrc%5Etfw">Tweets by jwteous92</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </center>
+</body>
+
+</html>
