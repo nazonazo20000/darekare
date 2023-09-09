@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<nav>
+    <u1>
+        <li> <a href="index.html">ホーム</a> </li>
+        <li> <a href="gallery.html">ギャラリー</a> </li>
+    </u1>
+</nav>
+<style>
+    body {
+        background-color: #4682b4;
+    }
+
+    * {
+        cursor: url(アイコンka-soru.png), auto;
+    }
+</style>
+
+<body>
+    <img src="robber.jpg" alt="とんぼ">
+    <img src="sunflower.jpg" alt="ひまわり">
+    <img src="weed.jpg" alt="草">
+    <img src="wreath.jpg" alt="輪">
+    <img src="child.jpg" alt="こども">
+    <img src="duck.jpg" alt="アヒル">
+    <img src="flowers.jpg" alt="花柄">
+    <img src="yellow.jpg" alt="なんか">
+</body>
+
+</html>
